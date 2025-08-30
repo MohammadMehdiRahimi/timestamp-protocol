@@ -89,11 +89,8 @@ npm run dev
 
 ## License
 
-This project was created for educational purposes. If you want to open-source it, consider adding an MIT license or another permissive license.
-
+This project is released under the MIT License. See the LICENSE file.
 ---
-
-If you want the README to include screenshots, GIFs, detailed Tailwind setup instructions, or a sample set of schedules to load from inside the app, tell me and I'll add them.
 
 ## Live demo
 
