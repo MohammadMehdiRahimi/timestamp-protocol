@@ -94,3 +94,11 @@ This project was created for educational purposes. If you want to open-source it
 ---
 
 If you want the README to include screenshots, GIFs, detailed Tailwind setup instructions, or a sample set of schedules to load from inside the app, tell me and I'll add them.
+
+## Live demo
+
+
+The project is deployed and available online at:
+
+
+https://timestamp-protocol.vercel.app/
